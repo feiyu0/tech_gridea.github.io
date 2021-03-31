@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.tichieru.bid</id>
-    <title>Gridea</title>
-    <updated>2021-03-31T16:30:06.033Z</updated>
+    <title>飞羽の游戏日志</title>
+    <updated>2021-03-31T16:34:59.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tech.tichieru.bid"/>
     <link rel="self" href="https://tech.tichieru.bid/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>记录游戏日常</subtitle>
     <logo>https://tech.tichieru.bid/images/avatar.png</logo>
     <icon>https://tech.tichieru.bid/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 飞羽の游戏日志</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tech.tichieru.bid/post/hello-gridea/</id>
